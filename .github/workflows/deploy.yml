@@ -30,3 +30,4 @@ jobs:
           external_repository: agentic-workflow/agentic-workflow.github.io
           publish_dir: ./book
           publish_branch: master
+          cname: doc.agentic-workflow.org
